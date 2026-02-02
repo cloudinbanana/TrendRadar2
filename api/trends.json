@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-02T18:37:35.214234+08:00",
-  "total_titles_processed": 1361,
+  "generated_at": "2026-02-02T19:31:45.527122+08:00",
+  "total_titles_processed": 1459,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 30,
+      "match_count": 31,
       "titles": [
         {
           "title": "特朗普：印度将进口委内瑞拉石油，同样欢迎中国",
@@ -95,6 +95,18 @@
           "time_info": "[00时20分 ~ 07时18分]"
         },
         {
+          "title": "伊朗外长：正在谈判，特朗普足够明智，会做正确决定",
+          "url": "https://news.ifeng.com/c/8qPq0eP3mpg",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时04分 ~ 19时31分]"
+        },
+        {
           "title": "特朗普称能让其他国家付钱，绝口不提欠联合国会费",
           "url": "https://news.ifeng.com/c/8qPfsxsfg0G",
           "source": "凤凰网",
@@ -105,18 +117,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时16分 ~ 16时34分]"
-        },
-        {
-          "title": "伊朗外长：正在谈判，特朗普足够明智，会做正确决定",
-          "url": "https://news.ifeng.com/c/8qPq0eP3mpg",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时04分 ~ 18时37分]"
         },
         {
           "title": "特朗普再次表态：将与古巴达成协议",
@@ -306,7 +306,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时37分"
         },
@@ -364,6 +364,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时16分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-02）",
+          "url": "https://flash.jin10.com/detail/20260202181717877800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时31分"
         }
       ]
     },
@@ -412,7 +423,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时37分"
         },
@@ -497,8 +508,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时20分 ~ 18时37分]"
+          "appearance_count": 19,
+          "time_info": "[00时20分 ~ 19时31分]"
         }
       ]
     },
