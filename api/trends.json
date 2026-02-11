@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-12T05:28:36.055039+08:00",
-  "total_titles_processed": 570,
+  "generated_at": "2026-02-12T06:41:43.505081+08:00",
+  "total_titles_processed": 644,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 28,
+      "match_count": 45,
       "titles": [
         {
           "title": "特朗普：伊朗希望达成协议，不然太蠢了",
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时57分 ~ 05时28分]"
+          "appearance_count": 9,
+          "time_info": "[00时57分 ~ 06时41分]"
         },
         {
           "title": "特朗普称「若美伊谈判失败，或向中东再派一支航母打击群」，美伊会走向冲突吗？",
@@ -27,19 +27,20 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时57分 ~ 05时28分]"
+          "appearance_count": 9,
+          "time_info": "[00时57分 ~ 06时41分]"
         },
         {
           "title": "油价日内涨超2%，报道：特朗普私下考虑退出《美墨加协定》",
           "url": "https://wallstreetcn.com/articles/3765521",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时22分 ~ 05时28分]"
+          "appearance_count": 8,
+          "time_info": "[02时22分 ~ 06时41分]"
         },
         {
           "title": "以色列宣布总理内塔尼亚胡与美国总统特朗普会面的情况：双方同意继续紧密合作。",
@@ -61,7 +62,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时28分"
         },
@@ -195,6 +196,39 @@
           "time_info": "[04时31分 ~ 05时28分]"
         },
         {
+          "title": "美国总统特朗普：由于关税，贸易逆差下降了78%。",
+          "url": "https://flash.jin10.com/detail/20260212055211838800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时41分"
+        },
+        {
+          "title": "美国总统特朗普签署命令，授意五角大楼（国防部）采购煤电。",
+          "url": "https://wallstreetcn.com/livenews/3053985",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时41分"
+        },
+        {
+          "title": "美国总统特朗普：美国正在向世界各地出口煤炭。",
+          "url": "https://flash.jin10.com/detail/20260212055115912800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时41分"
+        },
+        {
           "title": "市场消息：内塔尼亚胡在会见特朗普之前会见了美国国务卿鲁比奥。",
           "url": "https://flash.jin10.com/detail/20260212002408203800",
           "source": "金十数据",
@@ -204,6 +238,50 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时57分"
+        },
+        {
+          "title": "美国总统特朗普：将通过美国军方购买大量煤炭。",
+          "url": "https://flash.jin10.com/detail/20260212054736263800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时41分"
+        },
+        {
+          "title": "美国总统特朗普兜售标普和道指创新高。",
+          "url": "https://wallstreetcn.com/livenews/3053981",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时41分"
+        },
+        {
+          "title": "美国总统特朗普：将于周三签署一项命令，指示美国国防部从燃煤发电厂购买电力，以提振该行业。",
+          "url": "https://flash.jin10.com/detail/20260212054735155800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时41分"
+        },
+        {
+          "title": "美国总统特朗普兜售贸易赤字缩小，称：下一年将转正（扭转为贸易盈余/贸易顺差）。",
+          "url": "https://wallstreetcn.com/livenews/3053980",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时41分"
         },
         {
           "title": "据华盛顿邮报：特朗普政府从洛杉矶、芝加哥和波特兰撤回国民警卫队。",
@@ -217,6 +295,50 @@
           "time_info": "00时57分"
         },
         {
+          "title": "美国总统特朗普：向世界各地出口煤炭。",
+          "url": "https://wallstreetcn.com/livenews/3053979",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时41分"
+        },
+        {
+          "title": "美国总统特朗普：今年煤电发电量将增长约25%至30%。",
+          "url": "https://flash.jin10.com/detail/20260212054446683800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时41分"
+        },
+        {
+          "title": "特朗普：美国今年煤炭发电量将增长大约25%-30%。",
+          "url": "https://wallstreetcn.com/livenews/3053975",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时41分"
+        },
+        {
+          "title": "美国总统特朗普：希望我这四年任期内不会有（新审批的）风电场。",
+          "url": "https://wallstreetcn.com/livenews/3053974",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时41分"
+        },
+        {
           "title": "据AXIOS网站：特朗普与以色列总理内塔尼亚胡的会面已经开始。",
           "url": "https://flash.jin10.com/detail/20260212000731076800",
           "source": "金十数据",
@@ -228,6 +350,28 @@
           "time_info": "00时57分"
         },
         {
+          "title": "美国总统特朗普：指示能源部向包括西弗吉尼亚州和俄亥俄州在内的各州的燃煤电厂拨款。",
+          "url": "https://flash.jin10.com/detail/20260212054108494800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时41分"
+        },
+        {
+          "title": "美国总统特朗普：股市刚刚“创历史新高”。",
+          "url": "https://wallstreetcn.com/livenews/3053971",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时41分"
+        },
+        {
           "title": "以色列总理内塔尼亚胡抵达白宫与特朗普就伊朗问题举行会谈。",
           "url": "https://flash.jin10.com/detail/20260212000328760800",
           "source": "金十数据",
@@ -237,6 +381,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时57分"
+        },
+        {
+          "title": "美国总统特朗普：煤炭是我们拥有的最可靠的能源形式。田纳西河谷管理局已采取行动，拯救田纳西州的两座主要燃煤电厂。",
+          "url": "https://flash.jin10.com/detail/20260212054016228800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时41分"
         },
         {
           "title": "美国总统特朗普：上次伊朗认为不达成协议对他们更有利，结果他们遭遇了午夜铁锤，这对他们并不好。希望这次他们会更加理性和负责任。",
@@ -259,6 +414,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时57分"
+        },
+        {
+          "title": "美国能源部长Wright：总统特朗普在委内瑞拉关系转型方面恪守承诺。",
+          "url": "https://wallstreetcn.com/livenews/3053969",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时41分"
         },
         {
           "title": "美国总统特朗普：如果能够达成协议，我已告知内塔尼亚胡那将是优先选择。如果无法达成协议，我们只能拭目以待。",
@@ -305,6 +471,17 @@
           "time_info": "03时53分"
         },
         {
+          "title": "美国总统特朗普：我们的股市刚刚创下了历史上的最高价。",
+          "url": "https://flash.jin10.com/detail/20260212053407550800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时41分"
+        },
+        {
           "title": "据AXIOS网站：特朗普与内塔尼亚胡的会议在近三个小时后结束。",
           "url": "https://flash.jin10.com/detail/20260212025205633800",
           "source": "金十数据",
@@ -327,6 +504,17 @@
           "time_info": "03时53分"
         },
         {
+          "title": "美国能源部长赖特：美国总统特朗普致力于转变与委内瑞拉的关系。",
+          "url": "https://flash.jin10.com/detail/20260212052606935800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时41分"
+        },
+        {
           "title": "特朗普关税政策遭阻击：约翰逊未能阻止美国众议院投票",
           "url": "https://wallstreetcn.com/livenews/3053931",
           "source": "华尔街见闻-快讯",
@@ -341,8 +529,32 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "84 岁吉姆·罗杰斯清空美股，坚定持有金银铜称要留给后代，预言下次危机是其一生中最惨烈危机，如何解读？",
+          "url": "https://www.zhihu.com/question/2004662806780338439",
+          "source": "知乎",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时57分 ~ 06时41分]"
+        },
+        {
+          "title": "强劲非农打击降息预期，软件股抛售潮拖累美股指，美债承压，黄金涨幅收窄",
+          "url": "https://wallstreetcn.com/articles/3765486",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[02时22分 ~ 06时41分]"
+        },
         {
           "title": "美股遍寻“下一个AI受害者”，周一保险经纪崩了、周二财富管理崩了，嘉信理财盘中跌超9%",
           "url": "https://wallstreetcn.com/articles/3765438",
@@ -356,37 +568,16 @@
           "time_info": "[00时57分 ~ 05时28分]"
         },
         {
-          "title": "84 岁吉姆·罗杰斯清空美股，坚定持有金银铜称要留给后代，预言下次危机是其一生中最惨烈危机，如何解读？",
-          "url": "https://www.zhihu.com/question/2004662806780338439",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时57分 ~ 05时28分]"
-        },
-        {
-          "title": "强劲非农打击降息预期，软件股抛售潮拖累美股指，美债承压，黄金涨幅收窄",
-          "url": "https://wallstreetcn.com/articles/3765486",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时22分 ~ 05时28分]"
-        },
-        {
           "title": "“AI之战”输不得！如果美股Mag 7今年就把现金流“烧成负数”，这对市场意味着什么？",
           "url": "https://wallstreetcn.com/articles/3765455",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时57分 ~ 05时28分]"
+          "appearance_count": 9,
+          "time_info": "[00时57分 ~ 06时41分]"
         },
         {
           "title": "周三（2月11日）美股尾盘，彭博电动汽车价格回报指数涨1.32%，报3662.78点。 北京时间09:25出现一波快速上涨行情，10:15过后持续高位震荡。 成分股智利化工矿业公司（SQM）涨7.1%，美国雅宝涨4.3%，小米集团H股收涨4.27%，意法半导体欧股收涨2.92%，禾赛科技则跌6.2%，Lucid集团跌8.3%。",
@@ -395,7 +586,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时28分"
         },
@@ -409,6 +600,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时57分"
+        },
+        {
+          "title": "Peabody Energy美股盘后涨7%，此前特朗普兜售美国煤炭。",
+          "url": "https://wallstreetcn.com/livenews/3053983",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时41分"
         },
         {
           "title": "金十图示：2026年02月11日（周三）美股热门股票行情一览（美股盘中）",
@@ -436,7 +638,7 @@
     },
     {
       "keyword_group": "DeepSeek",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "如何评价 2 月 11 日上线的 DeepSeek 新模型？",
@@ -446,8 +648,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时57分 ~ 05时28分]"
+          "appearance_count": 9,
+          "time_info": "[00时57分 ~ 06时41分]"
         },
         {
           "title": "UP主实测DeepSeek新模型",
@@ -457,8 +659,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时57分 ~ 05时28分]"
+          "appearance_count": 9,
+          "time_info": "[00时57分 ~ 06时41分]"
         },
         {
           "title": "DeepSeek模型更新！上下文提升至百万Token 可处理三体小说全集",
@@ -468,8 +670,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时57分 ~ 05时28分]"
+          "appearance_count": 9,
+          "time_info": "[00时57分 ~ 06时41分]"
         },
         {
           "title": "DeepSeek低调升级新模型",
@@ -479,19 +681,31 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时57分 ~ 05时28分]"
+          "appearance_count": 9,
+          "time_info": "[00时57分 ~ 06时41分]"
         },
         {
           "title": "春节见？DeepSeek下一代模型：“高性价比”创新架构，助力中国突破“算力芯片和内存”瓶颈",
           "url": "https://wallstreetcn.com/articles/3765457",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时57分 ~ 05时28分]"
+          "appearance_count": 9,
+          "time_info": "[00时57分 ~ 06时41分]"
+        },
+        {
+          "title": "DeepSeek新模型来了？",
+          "url": "https://wallstreetcn.com/articles/3765514",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时41分"
         }
       ]
     },
@@ -523,7 +737,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时28分"
         }
