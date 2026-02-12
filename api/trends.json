@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-12T14:01:04.690274+08:00",
-  "total_titles_processed": 1122,
+  "generated_at": "2026-02-12T15:05:16.104182+08:00",
+  "total_titles_processed": 1233,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 51,
+      "match_count": 53,
       "titles": [
         {
           "title": "特朗普：伊朗希望达成协议，不然太蠢了",
@@ -30,8 +30,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[02时22分 ~ 14时01分]"
+          "appearance_count": 14,
+          "time_info": "[02时22分 ~ 15时05分]"
         },
         {
           "title": "特朗普称「若美伊谈判失败，或向中东再派一支航母打击群」，美伊会走向冲突吗？",
@@ -146,6 +146,30 @@
           "time_info": "[03时53分 ~ 05时28分]"
         },
         {
+          "title": "多名共和党议员“倒戈”！美众议院投票否决特朗普对加拿大征收关税",
+          "url": "https://www.cls.cn/detail/2288046",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时59分 ~ 15时05分]"
+        },
+        {
+          "title": "特朗普会以总理，称同伊朗达成协议将是“首选”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32588414",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时59分 ~ 15时05分]"
+        },
+        {
           "title": "特朗普称赞1月非农强劲表现 再度呼吁大幅降息",
           "url": "https://www.cls.cn/detail/2287759",
           "source": "财联社热门",
@@ -233,17 +257,6 @@
           "time_info": "[06时41分 ~ 07时25分]"
         },
         {
-          "title": "多名共和党议员“倒戈”！美众议院投票否决特朗普对加拿大征收关税",
-          "url": "https://www.cls.cn/detail/2288046",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时59分 ~ 14时01分]"
-        },
-        {
           "title": "美国总统特朗普：美国正在向世界各地出口煤炭。",
           "url": "https://flash.jin10.com/detail/20260212055115912800",
           "source": "金十数据",
@@ -254,17 +267,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时41分 ~ 07时25分]"
-        },
-        {
-          "title": "特朗普会以总理，称同伊朗达成协议将是“首选”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32588414",
-          "source": "澎湃新闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时59分 ~ 14时01分]"
         },
         {
           "title": "美国总统特朗普：将通过美国军方购买大量煤炭。",
@@ -373,6 +375,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时41分 ~ 07时25分]"
+        },
+        {
+          "title": "特朗普否认了，仅拒邀两人",
+          "url": "https://news.ifeng.com/c/8qgMtgtYs0u",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时05分"
+        },
+        {
+          "title": "强劲非农难撼白宫鸽派论调 特朗普亲信：美联储仍有“充足”降息空间",
+          "url": "https://www.cls.cn/detail/2287874",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时05分"
         },
         {
           "title": "市场消息：内塔尼亚胡在会见特朗普之前会见了美国国务卿鲁比奥。",
@@ -669,8 +693,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时25分 ~ 14时01分]"
+          "appearance_count": 6,
+          "time_info": "[07时25分 ~ 15时05分]"
         },
         {
           "title": "美股收盘：非农提振昙花一现 三大指数集体收跌",
@@ -697,6 +721,19 @@
           "time_info": "05时28分"
         },
         {
+          "title": "开盘即巅峰！华尔街热议：强劲非农下美股缘何虎头蛇尾？",
+          "url": "https://www.cls.cn/detail/2287918",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时17分 ~ 15时05分]"
+        },
+        {
           "title": "思科美股盘后维持超过6.8%的跌幅，该公司所给利润指引“疲软”。",
           "url": "https://wallstreetcn.com/livenews/3054008",
           "source": "华尔街见闻-快讯",
@@ -717,18 +754,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时57分"
-        },
-        {
-          "title": "开盘即巅峰！华尔街热议：强劲非农下美股缘何虎头蛇尾？",
-          "url": "https://www.cls.cn/detail/2287918",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时17分 ~ 14时01分]"
         },
         {
           "title": "Peabody Energy美股盘后涨7%，此前特朗普兜售美国煤炭。",
@@ -811,11 +836,12 @@
             4,
             5,
             15,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时57分 ~ 14时01分]"
+          "appearance_count": 15,
+          "time_info": "[00时57分 ~ 15时05分]"
         },
         {
           "title": "DeepSeek低调升级新模型",
@@ -826,8 +852,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时57分 ~ 14时01分]"
+          "appearance_count": 15,
+          "time_info": "[00时57分 ~ 15时05分]"
         },
         {
           "title": "春节见？DeepSeek下一代模型：“高性价比”创新架构，助力中国突破“算力芯片和内存”瓶颈",
@@ -846,11 +872,12 @@
           "url": "https://s.weibo.com/weibo?q=%23%E4%BB%8EDeepseek%E5%88%B0Seedance%E4%B8%AD%E5%9B%BDAI%E6%88%90%E4%BA%86%23&t=31&band_rank=1&Refer=top",
           "source": "微博",
           "ranks": [
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时59分 ~ 14时01分]"
+          "appearance_count": 3,
+          "time_info": "[13时59分 ~ 15时05分]"
         },
         {
           "title": "DeepSeek新模型来了？",
@@ -862,8 +889,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时41分 ~ 14时01分]"
+          "appearance_count": 7,
+          "time_info": "[06时41分 ~ 15时05分]"
         }
       ]
     },
@@ -878,7 +905,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时01分"
         },
@@ -903,6 +930,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "软银集团：将以软银公司股份为抵押的保证金贷款增加了4000亿日元。 2025年4月至12月期间，因投资OpenAI录得2.8万亿日元投资收益。 愿景基金二号（Vision Fund 2）在2025年4月至12月期间，因投资OpenAI录得170亿美元投资收益。",
+          "url": "https://wallstreetcn.com/livenews/3054264",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时05分"
+        },
+        {
+          "title": "软银集团：在2025年4月至12月期间，对OpenAI的投资录得2.8万亿日元的投资收益。",
+          "url": "https://flash.jin10.com/detail/20260212143638598800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时05分"
         }
       ]
     },
