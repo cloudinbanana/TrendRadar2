@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-18T12:15:05.893701+08:00",
-  "total_titles_processed": 963,
+  "generated_at": "2026-02-18T13:56:59.454865+08:00",
+  "total_titles_processed": 1056,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 32,
+      "match_count": 33,
       "titles": [
         {
           "title": "美国专家：美伊谈判前景像掷硬币，关键在于特朗普的决策",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[02时46分 ~ 12时15分]"
+          "appearance_count": 11,
+          "time_info": "[02时46分 ~ 13时56分]"
         },
         {
           "title": "哈梅内伊回应特朗普威胁",
@@ -74,7 +74,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时15分"
         },
@@ -110,6 +110,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时49分"
+        },
+        {
+          "title": "特朗普宣布大消息，日本要当冤大头了",
+          "url": "https://news.ifeng.com/c/8qq0daMEvoo",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时23分 ~ 13时56分]"
         },
         {
           "title": "特朗普关税引发巨额亏损，企业纷纷加大汇率套期保值力度",
@@ -151,15 +162,16 @@
           "time_info": "[02时12分 ~ 04时29分]"
         },
         {
-          "title": "特朗普宣布大消息，日本要当冤大头了",
-          "url": "https://news.ifeng.com/c/8qq0daMEvoo",
-          "source": "凤凰网",
+          "title": "特朗普女儿伊万卡中文拜年：新年快乐",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%A5%B3%E5%84%BF%E4%BC%8A%E4%B8%87%E5%8D%A1%E4%B8%AD%E6%96%87%E6%8B%9C%E5%B9%B4%EF%BC%9A%E6%96%B0%E5%B9%B4%E5%BF%AB%E4%B9%90",
+          "source": "百度热搜",
           "ranks": [
-            6
+            18,
+            14
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[09时23分 ~ 12时15分]"
+          "time_info": "[12时14分 ~ 13时56分]"
         },
         {
           "title": "美国副总统万斯：无论采取外交手段还是其他选项，特朗普都想找到解决方案。",
@@ -233,17 +245,6 @@
           "time_info": "[02时46分 ~ 03时43分]"
         },
         {
-          "title": "特朗普女儿伊万卡中文拜年：新年快乐",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%A5%B3%E5%84%BF%E4%BC%8A%E4%B8%87%E5%8D%A1%E4%B8%AD%E6%96%87%E6%8B%9C%E5%B9%B4%EF%BC%9A%E6%96%B0%E5%B9%B4%E5%BF%AB%E4%B9%90",
-          "source": "百度热搜",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时14分 ~ 12时15分]"
-        },
-        {
           "title": "美国总统特朗普：波托马克河泄漏是激进左派造成的环境危害。",
           "url": "https://flash.jin10.com/detail/20260217235812714800",
           "source": "金十数据",
@@ -308,6 +309,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时28分"
+        },
+        {
+          "title": "墨西哥总统：墨西哥已拒绝特朗普加入“和平委员会”的邀请",
+          "url": "https://wallstreetcn.com/livenews/3056209",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时56分"
         },
         {
           "title": "英媒：特朗普政府升级对美消费者金融保护局打击力度",
@@ -403,8 +415,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时48分 ~ 12时15分]"
+          "appearance_count": 14,
+          "time_info": "[00时48分 ~ 13时56分]"
         },
         {
           "title": "AI担忧仍存，美股走V微涨，软件股再遭抛售，金银油下挫，期银跌近6%",
@@ -415,8 +427,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时23分 ~ 12时15分]"
+          "appearance_count": 4,
+          "time_info": "[09时23分 ~ 13时56分]"
         },
         {
           "title": "AI担忧仍存，美股走V微涨，软件股再遭抛售，大宗商品普跌，英央行降息预期上升，英镑一度跳水1%",
@@ -473,8 +485,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时14分 ~ 12时15分]"
+          "appearance_count": 3,
+          "time_info": "[12时14分 ~ 13时56分]"
         },
         {
           "title": "应用材料美股盘后跌7.6%。",
@@ -681,7 +693,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时15分"
         }
