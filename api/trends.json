@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-26T19:35:28.985674+08:00",
-  "total_titles_processed": 1652,
+  "generated_at": "2026-02-26T20:44:50.160897+08:00",
+  "total_titles_processed": 1750,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
         {
           "title": "伊朗强硬回击特朗普国情咨文：弥天大谎",
@@ -76,8 +76,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时53分 ~ 19时35分]"
+          "appearance_count": 10,
+          "time_info": "[13时53分 ~ 20时44分]"
         },
         {
           "title": "白宫官员：特朗普和泽连斯基通电话。",
@@ -130,6 +130,19 @@
           "time_info": "[02时55分 ~ 04时29分]"
         },
         {
+          "title": "特朗普白宫设宴，请美国男子冰球队吃麦当劳",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32658507",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时38分 ~ 20时44分]"
+        },
+        {
           "title": "乌克兰总统顾问：泽连斯基与特朗普举行电话会谈，会谈已结束。",
           "url": "https://flash.jin10.com/detail/20260226024823938800",
           "source": "金十数据",
@@ -152,6 +165,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时18分 ~ 09时19分]"
+        },
+        {
+          "title": "特朗普和泽连斯基通话30分钟，谈及俄乌冲突结束时间",
+          "url": "https://news.ifeng.com/c/8r3yuvat2ge",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时35分 ~ 20时44分]"
         },
         {
           "title": "特朗普试戴冬奥金牌不还",
@@ -177,18 +201,6 @@
           "time_info": "[04时29分 ~ 05时30分]"
         },
         {
-          "title": "特朗普白宫设宴，请美国男子冰球队吃麦当劳",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32658507",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时38分 ~ 19时35分]"
-        },
-        {
           "title": "特朗普顾问希望以色列先动手打伊朗",
           "url": "https://www.toutiao.com/trending/7610052654202437668/",
           "source": "今日头条",
@@ -209,17 +221,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时10分"
-        },
-        {
-          "title": "特朗普和泽连斯基通话30分钟，谈及俄乌冲突结束时间",
-          "url": "https://news.ifeng.com/c/8r3yuvat2ge",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时35分"
         },
         {
           "title": "市场消息：特朗普目前正在与泽连斯基通电话。",
@@ -264,6 +265,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时10分"
+        },
+        {
+          "title": "特朗普威胁将教父饰演者驱逐出境",
+          "url": "https://www.toutiao.com/trending/7610586645797863478/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时44分"
         },
         {
           "title": "特朗普把国情咨文演讲开成吹牛大会",
@@ -346,8 +358,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时22分 ~ 19时35分]"
+          "appearance_count": 15,
+          "time_info": "[07时22分 ~ 20时44分]"
         },
         {
           "title": "美股收盘：“七巨头”集体走强 三大指数连续两日齐涨",
