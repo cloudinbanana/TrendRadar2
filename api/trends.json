@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-01T19:15:00.709909+08:00",
-  "total_titles_processed": 1539,
+  "generated_at": "2026-03-01T20:31:48.079435+08:00",
+  "total_titles_processed": 1629,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 80,
+      "match_count": 81,
       "titles": [
         {
           "title": "多国撤人，航母抵以，美国要边打边谈？特朗普称美伊将继续谈判、警告“有时不得不打”",
@@ -29,8 +29,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时15分 ~ 19时15分]"
+          "appearance_count": 11,
+          "time_info": "[12时15分 ~ 20时31分]"
         },
         {
           "title": "伊朗媒体说伊朗总统等将领导国家，特朗普：外交解决方案仍“易于”达成，已有可执掌伊朗政权的“合适人选”",
@@ -43,8 +43,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时15分 ~ 19时15分]"
+          "appearance_count": 11,
+          "time_info": "[12时15分 ~ 20时31分]"
         },
         {
           "title": "高市早苗当众施压下属：别让我在特朗普面前难堪！网友：职场霸凌",
@@ -84,8 +84,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时15分 ~ 19时15分]"
+          "appearance_count": 11,
+          "time_info": "[12时15分 ~ 20时31分]"
         },
         {
           "title": "Anthropic拒绝五角大楼要求，特朗普下令联邦机构停用Anthropic产品",
@@ -441,6 +441,17 @@
           "time_info": "[01时15分 ~ 03时16分]"
         },
         {
+          "title": "特朗普不怕油价？报道称美国不考虑释放战略原油储备，而OPEC+考虑增产",
+          "url": "https://wallstreetcn.com/articles/3766448",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时14分 ~ 20时31分]"
+        },
+        {
           "title": "美国副总统万斯、能源部长Wright、财政部长贝森特陪同总统特朗普监督美军与以色列袭击伊朗的过程。（NBC）",
           "url": "https://wallstreetcn.com/livenews/3060964",
           "source": "华尔街见闻-快讯",
@@ -499,17 +510,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时22分 ~ 16时23分]"
-        },
-        {
-          "title": "特朗普不怕油价？报道称美国不考虑释放战略原油储备，而OPEC+考虑增产",
-          "url": "https://wallstreetcn.com/articles/3766448",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时14分 ~ 19时15分]"
         },
         {
           "title": "特朗普前盟友批评美国对伊朗动武",
@@ -872,6 +872,17 @@
           "time_info": "14时37分"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-03-01）",
+          "url": "https://flash.jin10.com/detail/20260301191237626800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时31分"
+        },
+        {
           "title": "白宫：特朗普今日不会就对伊朗打击行动发表更多正式公开讲话",
           "url": "https://wallstreetcn.com/livenews/3060903",
           "source": "华尔街见闻-快讯",
@@ -961,8 +972,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时18分 ~ 19时15分]"
+          "appearance_count": 23,
+          "time_info": "[00时18分 ~ 20时31分]"
         },
         {
           "title": "OpenAI创始人奥尔特曼：不会执行违宪命令",
