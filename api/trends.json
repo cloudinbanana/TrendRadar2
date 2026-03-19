@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-19T20:44:59.327991+08:00",
-  "total_titles_processed": 1966,
+  "generated_at": "2026-03-19T22:04:55.917081+08:00",
+  "total_titles_processed": 2083,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 38,
+      "match_count": 41,
       "titles": [
         {
           "title": "特朗普改口：美国对伊朗动武，不需要盟友帮忙",
@@ -50,19 +50,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时35分 ~ 20时44分]"
+          "appearance_count": 7,
+          "time_info": "[17时35分 ~ 22时04分]"
         },
         {
           "title": "报告与特朗普开战理由相悖？美情报总监矛盾表态",
           "url": "https://news.ifeng.com/c/8rchDZPxjNO",
           "source": "凤凰网",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时35分 ~ 20时44分]"
+          "appearance_count": 7,
+          "time_info": "[17时35分 ~ 22时04分]"
         },
         {
           "title": "是否派自卫队赴中东？日本专家：高市或与特朗普达成私下交易",
@@ -150,6 +151,18 @@
           "time_info": "[12时15分 ~ 15时42分]"
         },
         {
+          "title": "特朗普威胁：再炸卡塔尔，把你们伊朗气田炸上天",
+          "url": "https://news.ifeng.com/c/8rcnk4inq8M",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时30分 ~ 22时04分]"
+        },
+        {
           "title": "美以伊战争丨特朗普谈以打击伊朗天然气田：毫不知情",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -194,6 +207,18 @@
           "time_info": "07时25分"
         },
         {
+          "title": "“能源战”升级！以军轰炸伊朗最大气田、油价暴涨背后：以色列完全“控制”了特朗普？",
+          "url": "https://wallstreetcn.com/articles/3767896",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时35分 ~ 22时04分]"
+        },
+        {
           "title": "高市早苗访美与特朗普如何“面对面”？",
           "url": "https://news.ifeng.com/c/8rcWUf1wYvu",
           "source": "凤凰网",
@@ -203,28 +228,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[15时42分 ~ 18时33分]"
-        },
-        {
-          "title": "“能源战”升级！以军轰炸伊朗最大气田、油价暴涨背后：以色列完全“控制”了特朗普？",
-          "url": "https://wallstreetcn.com/articles/3767896",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时35分 ~ 19时31分]"
-        },
-        {
-          "title": "特朗普威胁：再炸卡塔尔，把你们伊朗气田炸上天",
-          "url": "https://news.ifeng.com/c/8rcnk4inq8M",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时30分 ~ 20时44分]"
         },
         {
           "title": "被质问为何不谴责美以袭击伊朗？高市早苗语出惊人：因为我要见特朗普",
@@ -288,6 +291,17 @@
           "time_info": "[05时28分 ~ 06时26分]"
         },
         {
+          "title": "被特朗普抱怨不积极，默茨最新表态",
+          "url": "https://news.ifeng.com/c/8rd2LaEzlmg",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时04分"
+        },
+        {
           "title": "美国加州州长纽森：特朗普把世界上最伟大的办公室变成了最大的骗局。他的遗产将是腐败和贪婪。",
           "url": "https://flash.jin10.com/detail/20260319011410748800",
           "source": "金十数据",
@@ -332,6 +346,17 @@
           "time_info": "14时48分"
         },
         {
+          "title": "美国参议院委员会投票通过美国总统特朗普提名的国土安全部长人选马奎恩·马林。",
+          "url": "https://flash.jin10.com/detail/20260319214142182800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时04分"
+        },
+        {
           "title": "美国加州州长纽森：唐纳德·特朗普想让美国倒退。如果我们不站出来，我们将失去这个国家。",
           "url": "https://flash.jin10.com/detail/20260319064615377800",
           "source": "金十数据",
@@ -349,9 +374,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时44分"
+        },
+        {
+          "title": "美国国家情报总监加巴德：美国总统特朗普提出的对伊目标与以色列的目标不同。",
+          "url": "https://flash.jin10.com/detail/20260319213810870800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时04分"
         },
         {
           "title": "美国参议院少数党领袖舒默：特朗普在中东发动了一场战争，但现在他试图逃避代价，把账单留给美国人民，而这场战争似乎没有结束的迹象。鲁比奥和赫格塞斯需要公开宣誓作证。美国人民应当得到答案，也应当获得问责。",
@@ -445,7 +481,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 21,
       "titles": [
         {
           "title": "美股收盘：七巨头齐挫三大指数跌超1% 闪迪、美光逆市收新高",
@@ -553,6 +589,28 @@
           "time_info": "07时25分"
         },
         {
+          "title": "油价继续飙升 欧美股市承压 黄金白银重挫 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2318602",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时04分"
+        },
+        {
+          "title": "金十图示：2026年03月19日（周四）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20260319214305796800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时04分"
+        },
+        {
           "title": "美光科技(MU.O)美股盘后涨2%。",
           "url": "https://flash.jin10.com/detail/20260319040336883800",
           "source": "金十数据",
@@ -562,6 +620,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时28分"
+        },
+        {
+          "title": "美股三大股指集体低开，贵金属概念股大跌",
+          "url": "https://wallstreetcn.com/livenews/3073382",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时04分"
         },
         {
           "title": "受银价跌至逾一个月低位影响，银矿股在美股盘前走低，赫克拉矿业公司股价下跌4.9%，科尔黛伦矿业股价下跌5.7%，希尔威金属矿业下跌5.1%，奋进白银下跌6.4%。",
@@ -603,7 +672,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时44分"
         },
@@ -715,11 +784,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32793883",
           "source": "澎湃新闻",
           "ranks": [
-            17
+            17,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时44分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时44分 ~ 22时04分]"
         }
       ]
     },
