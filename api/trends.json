@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-20T16:33:10.913832+08:00",
-  "total_titles_processed": 1392,
+  "generated_at": "2026-03-20T17:34:16.199598+08:00",
+  "total_titles_processed": 1503,
   "failed_sources": [],
   "trends": [
     {
@@ -48,11 +48,12 @@
             9,
             8,
             6,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[05时28分 ~ 16时33分]"
+          "appearance_count": 13,
+          "time_info": "[05时28分 ~ 17时34分]"
         },
         {
           "title": "“能源战”升级！以军轰炸伊朗最大气田、油价暴涨背后：以色列完全“控制”了特朗普？",
@@ -77,8 +78,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时50分 ~ 16时33分]"
+          "appearance_count": 19,
+          "time_info": "[00时50分 ~ 17时34分]"
         },
         {
           "title": "美以伊战争丨特朗普最佳王牌下周抵达中东，能做什么",
@@ -103,6 +104,17 @@
           "time_info": "[02时45分 ~ 09时20分]"
         },
         {
+          "title": "全世界都被特朗普逗笑了，除了高市早苗",
+          "url": "https://news.ifeng.com/c/8rdmWWFqwvD",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时08分 ~ 17时34分]"
+        },
+        {
           "title": "特朗普会晤高市早苗 把美国袭击伊朗比作偷袭珍珠港",
           "url": "https://www.cls.cn/detail/2318930",
           "source": "财联社热门",
@@ -117,15 +129,15 @@
           "time_info": "[09时20分 ~ 16时33分]"
         },
         {
-          "title": "全世界都被特朗普逗笑了，除了高市早苗",
-          "url": "https://news.ifeng.com/c/8rdmWWFqwvD",
+          "title": "特朗普指着带口音的记者问高市：这是你们的人，他是好是坏？",
+          "url": "https://v.ifeng.com/c/8rckHP0Ciue",
           "source": "凤凰网",
           "ranks": [
-            6
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时08分 ~ 16时33分]"
+          "appearance_count": 7,
+          "time_info": "[13时45分 ~ 17时34分]"
         },
         {
           "title": "美以伊战争丨是否会派地面部队？特朗普最新表态",
@@ -148,17 +160,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时50分"
-        },
-        {
-          "title": "特朗普指着带口音的记者问高市：这是你们的人，他是好是坏？",
-          "url": "https://v.ifeng.com/c/8rckHP0Ciue",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时45分 ~ 16时33分]"
         },
         {
           "title": "据知情人士透露，美国总统特朗普支持Pirro就美联储主席鲍威尔传票（被法官驳回一事）提起上诉。（彭博）",
@@ -208,6 +209,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时50分 ~ 01时50分]"
+        },
+        {
+          "title": "高市早苗秀英语没说几句就“翻车”，特朗普：我们还是用翻译吧",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32799795",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时32分 ~ 17时34分]"
         },
         {
           "title": "美国参议院少数党领袖舒默：美国人被迫在救命药物和日常必需品之间做出选择，而特朗普却要求为他的战争再拨款2000亿美元，延长《平价医疗法案》税收抵免给超过2000万美国人的成本还不到这个数字的一半。",
@@ -268,17 +281,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时42分 ~ 04时29分]"
-        },
-        {
-          "title": "高市早苗秀英语没说几句就“翻车”，特朗普：我们还是用翻译吧",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32799795",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时32分 ~ 16时33分]"
         },
         {
           "title": "特朗普见高市早苗提偷袭珍珠港",
@@ -544,11 +546,12 @@
           "url": "https://wallstreetcn.com/articles/3767876",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时20分 ~ 16时33分]"
+          "appearance_count": 9,
+          "time_info": "[09时20分 ~ 17时34分]"
         },
         {
           "title": "美股收盘：三大指数连跌两天 光通信逆市走强 闪迪续刷新高",
@@ -652,7 +655,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时33分"
         },
@@ -674,7 +677,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时33分"
         },
@@ -740,7 +743,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时33分"
         }
