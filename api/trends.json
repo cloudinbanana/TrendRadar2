@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-20T14:44:59.230301+08:00",
-  "total_titles_processed": 1196,
+  "generated_at": "2026-03-20T15:41:40.519320+08:00",
+  "total_titles_processed": 1296,
   "failed_sources": [],
   "trends": [
     {
@@ -41,6 +41,20 @@
           "time_info": "[00时50分 ~ 12时08分]"
         },
         {
+          "title": "响应特朗普呼声，以色列总理称将暂停空袭伊朗能源设施，卡塔尔称伊袭破坏17%LNG产能",
+          "url": "https://wallstreetcn.com/articles/3767948",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[05时28分 ~ 15时41分]"
+        },
+        {
           "title": "“能源战”升级！以军轰炸伊朗最大气田、油价暴涨背后：以色列完全“控制”了特朗普？",
           "url": "https://wallstreetcn.com/articles/3767896",
           "source": "华尔街见闻",
@@ -63,22 +77,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时50分 ~ 14时44分]"
-        },
-        {
-          "title": "响应特朗普呼声，以色列总理称将暂停空袭伊朗能源设施，卡塔尔称伊袭破坏17%LNG产能",
-          "url": "https://wallstreetcn.com/articles/3767948",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[05时28分 ~ 14时44分]"
+          "appearance_count": 15,
+          "time_info": "[00时50分 ~ 15时41分]"
         },
         {
           "title": "特朗普见高市早苗提偷袭珍珠港",
@@ -99,8 +99,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时45分 ~ 14时44分]"
+          "appearance_count": 3,
+          "time_info": "[13时45分 ~ 15时41分]"
         },
         {
           "title": "美以伊战争丨是否会派地面部队？特朗普最新表态",
@@ -125,6 +125,30 @@
           "time_info": "00时50分"
         },
         {
+          "title": "特朗普会晤高市早苗 把美国袭击伊朗比作偷袭珍珠港",
+          "url": "https://www.cls.cn/detail/2318930",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时20分 ~ 15时41分]"
+        },
+        {
+          "title": "全世界都被特朗普逗笑了，除了高市早苗",
+          "url": "https://news.ifeng.com/c/8rdmWWFqwvD",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时08分 ~ 15时41分]"
+        },
+        {
           "title": "据知情人士透露，美国总统特朗普支持Pirro就美联储主席鲍威尔传票（被法官驳回一事）提起上诉。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3073529",
           "source": "华尔街见闻-快讯",
@@ -136,18 +160,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时45分 ~ 04时29分]"
-        },
-        {
-          "title": "特朗普会晤高市早苗 把美国袭击伊朗比作偷袭珍珠港",
-          "url": "https://www.cls.cn/detail/2318930",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时20分 ~ 14时44分]"
         },
         {
           "title": "以色列总理内塔尼亚胡：从来没有哪两位领导人能像我与特朗普这样步调一致。",
@@ -186,15 +198,15 @@
           "time_info": "[00时50分 ~ 01时50分]"
         },
         {
-          "title": "全世界都被特朗普逗笑了，除了高市早苗",
-          "url": "https://news.ifeng.com/c/8rdmWWFqwvD",
+          "title": "特朗普指着带口音的记者问高市：这是你们的人，他是好是坏？",
+          "url": "https://v.ifeng.com/c/8rckHP0Ciue",
           "source": "凤凰网",
           "ranks": [
-            6
+            9
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[12时08分 ~ 14时44分]"
+          "time_info": "[13时45分 ~ 15时41分]"
         },
         {
           "title": "美国参议院少数党领袖舒默：美国人被迫在救命药物和日常必需品之间做出选择，而特朗普却要求为他的战争再拨款2000亿美元，延长《平价医疗法案》税收抵免给超过2000万美国人的成本还不到这个数字的一半。",
@@ -219,17 +231,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时29分 ~ 05时29分]"
-        },
-        {
-          "title": "特朗普指着带口音的记者问高市：这是你们的人，他是好是坏？",
-          "url": "https://v.ifeng.com/c/8rckHP0Ciue",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时45分 ~ 14时44分]"
         },
         {
           "title": "日本首相高市早苗：特朗普和我讨论了日本在霍尔木兹海的援助法律限制。",
@@ -351,7 +352,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时44分"
         },
@@ -527,6 +528,19 @@
       "match_count": 15,
       "titles": [
         {
+          "title": "美股收盘：三大指数连跌两天 光通信逆市走强 闪迪续刷新高",
+          "url": "https://www.cls.cn/detail/2318884",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[06时40分 ~ 15时41分]"
+        },
+        {
           "title": "油价继续飙升 欧美股市承压 黄金白银重挫 | 今夜看点",
           "url": "https://www.cls.cn/detail/2318602",
           "source": "财联社热门",
@@ -540,19 +554,6 @@
           "time_info": "[00时50分 ~ 09时20分]"
         },
         {
-          "title": "美股收盘：三大指数连跌两天 光通信逆市走强 闪迪续刷新高",
-          "url": "https://www.cls.cn/detail/2318884",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时40分 ~ 14时44分]"
-        },
-        {
           "title": "油价动荡主导市场，美股美债企稳，全球央行\"鹰派按兵不动\"，黄金一度暴跌6%",
           "url": "https://wallstreetcn.com/articles/3767876",
           "source": "华尔街见闻",
@@ -560,8 +561,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时20分 ~ 14时44分]"
+          "appearance_count": 5,
+          "time_info": "[09时20分 ~ 15时41分]"
         },
         {
           "title": "霍尔木兹海峡现曙光，油价跳水！美股美债企稳，全球央行\"鹰派按兵不动\"，黄金一度暴跌6%",
