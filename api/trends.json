@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-29T20:37:17.376640+08:00",
-  "total_titles_processed": 1284,
+  "generated_at": "2026-03-29T21:47:29.339744+08:00",
+  "total_titles_processed": 1345,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时24分 ~ 20时37分]"
+          "appearance_count": 25,
+          "time_info": "[00时24分 ~ 21时47分]"
         },
         {
           "title": "特朗普谈中国：对中国的成就必须非常尊重",
@@ -104,17 +104,6 @@
           "time_info": "[00时24分 ~ 01时23分]"
         },
         {
-          "title": "泽连斯基：我希望特朗普不会忘记乌克兰冲突。",
-          "url": "https://wallstreetcn.com/livenews/3078609",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时25分 ~ 07时24分]"
-        },
-        {
           "title": "全美超900万人举行抗议，民众反对特朗普伊朗、移民等政策",
           "url": "https://m.thepaper.cn/newsDetail_forward_32856388",
           "source": "澎湃新闻",
@@ -126,8 +115,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时32分 ~ 20时37分]"
+          "appearance_count": 8,
+          "time_info": "[16时32分 ~ 21时47分]"
+        },
+        {
+          "title": "泽连斯基：我希望特朗普不会忘记乌克兰冲突。",
+          "url": "https://wallstreetcn.com/livenews/3078609",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时25分 ~ 07时24分]"
         },
         {
           "title": "特朗普：战争总会有意外，“有些本应打赢的战争却输了”，北约这次不帮美国，美国以后也不会帮北约！",
@@ -191,6 +191,19 @@
           "time_info": "[17时31分 ~ 19时23分]"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-03-29）",
+          "url": "https://flash.jin10.com/detail/20260329182448742800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            18,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时23分 ~ 21时47分]"
+        },
+        {
           "title": "特朗普称战争总会有意外，「有些本应打赢的战争却输了」，北约这次不帮美国，美国以后也不帮北约，如何解读？",
           "url": "https://www.zhihu.com/question/2021274346899943516",
           "source": "知乎",
@@ -202,16 +215,15 @@
           "time_info": "[09时44分 ~ 14时08分]"
         },
         {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-03-29）",
-          "url": "https://flash.jin10.com/detail/20260329182448742800",
-          "source": "金十数据",
+          "title": "全美爆发第三轮“不要国王”示威，预计900万人上街抗议特朗普",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32857485",
+          "source": "澎湃新闻",
           "ranks": [
-            9,
             18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时23分 ~ 20时37分]"
+          "time_info": "[20时37分 ~ 21时47分]"
         },
         {
           "title": "美国爆发反特朗普政府集会",
@@ -223,17 +235,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时32分"
-        },
-        {
-          "title": "全美爆发第三轮“不要国王”示威，预计900万人上街抗议特朗普",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32857485",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时37分"
         }
       ]
     },
@@ -250,8 +251,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时08分 ~ 20时37分]"
+          "appearance_count": 10,
+          "time_info": "[14时08分 ~ 21时47分]"
         },
         {
           "title": "谷歌AI内存压缩算法遭质疑",
@@ -264,11 +265,12 @@
             16,
             18,
             17,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时32分 ~ 20时37分]"
+          "appearance_count": 11,
+          "time_info": "[12时32分 ~ 21时47分]"
         },
         {
           "title": "谷歌TurboQuant论文解读",
@@ -324,8 +326,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时22分 ~ 20时37分]"
+          "appearance_count": 4,
+          "time_info": "[19时22分 ~ 21时47分]"
         },
         {
           "title": "谷歌干崩内存股价的 TurboQuant 论文被 RaBitQ 作者指出存在严重错误，怎么理解？",
@@ -413,8 +415,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时08分 ~ 20时37分]"
+          "appearance_count": 10,
+          "time_info": "[14时08分 ~ 21时47分]"
         }
       ]
     },
