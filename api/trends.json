@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-23T19:56:16.772839+08:00",
-  "total_titles_processed": 1563,
+  "generated_at": "2026-04-23T21:06:42.579591+08:00",
+  "total_titles_processed": 1672,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 49,
+      "match_count": 57,
       "titles": [
         {
           "title": "据称特朗普将再给伊朗3至5天停火时间",
@@ -41,8 +41,31 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[03时23分 ~ 19时56分]"
+          "appearance_count": 14,
+          "time_info": "[03时23分 ~ 21时06分]"
+        },
+        {
+          "title": "特朗普称“没有结束时间表”，美伊开启“懦夫博弈”，代价是全球经济",
+          "url": "https://wallstreetcn.com/articles/3770662",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时46分 ~ 21时06分]"
+        },
+        {
+          "title": "伊朗战争丨限制特朗普战争权力议案第5次遭否决",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时58分 ~ 21时06分]"
         },
         {
           "title": "“特朗普总是临阵脱逃”：TACO背后的股市反常繁荣和内幕交易争议",
@@ -58,18 +81,6 @@
           "time_info": "[00时52分 ~ 06时40分]"
         },
         {
-          "title": "特朗普称“没有结束时间表”，美伊开启“懦夫博弈”，代价是全球经济",
-          "url": "https://wallstreetcn.com/articles/3770662",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时46分 ~ 19时56分]"
-        },
-        {
           "title": "最后时刻反转！伊朗拒绝谈判，特朗普宣布延长停火，维持海上封锁等待伊朗提交方案",
           "url": "https://wallstreetcn.com/articles/3770539",
           "source": "华尔街见闻",
@@ -79,17 +90,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时52分 ~ 04时44分]"
-        },
-        {
-          "title": "伊朗战争丨限制特朗普战争权力议案第5次遭否决",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时58分 ~ 19时56分]"
         },
         {
           "title": "释新闻｜特朗普TACO实录：嘴硬说要打伊朗，身体又按了暂停键",
@@ -118,6 +118,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时54分 ~ 18时20分]"
+        },
+        {
+          "title": "乌官员建议给部分顿巴斯地区改名“特朗普地”",
+          "url": "https://news.ifeng.com/c/8sYPEJGNmH6",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时46分 ~ 21时06分]"
         },
         {
           "title": "伊朗战争丨伊朗否认举行美伊新谈判：特朗普又说谎了",
@@ -164,17 +175,6 @@
           "time_info": "[06时40分 ~ 07时40分]"
         },
         {
-          "title": "乌官员建议给部分顿巴斯地区改名“特朗普地”",
-          "url": "https://news.ifeng.com/c/8sYPEJGNmH6",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时46分 ~ 19时56分]"
-        },
-        {
           "title": "美媒：特朗普再给伊朗3至5天停火时间",
           "url": "https://news.ifeng.com/c/8sXS8jC94HP",
           "source": "凤凰网",
@@ -208,6 +208,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
+        },
+        {
+          "title": "特朗普：已下令击沉任何在霍尔木兹海峡布雷的船只",
+          "url": "https://flash.jin10.com/detail/20260423205130190800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时06分"
         },
         {
           "title": "美伊局势追踪：特朗普放出“和谈时间表”又被拒 伊朗方面态度强硬",
@@ -256,6 +267,28 @@
           "time_info": "05时44分"
         },
         {
+          "title": "美、布两油短线走高1美元，特朗普称已命令海军击沉任何在霍尔木兹海峡布置水雷的船只。",
+          "url": "https://flash.jin10.com/detail/20260423204946755800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时06分"
+        },
+        {
+          "title": "国际油价短线拉升，此前特朗普命令海军向在霍尔木兹海峡布雷的船只开火",
+          "url": "https://wallstreetcn.com/livenews/3093320",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时06分"
+        },
+        {
           "title": "特朗普团队搬出“现货溢价”忽悠人，贝森特大拽术语难救中期选举",
           "url": "https://flash.jin10.com/detail/20260423143049284800",
           "source": "金十数据",
@@ -265,6 +298,67 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时58分"
+        },
+        {
+          "title": "美国总统特朗普：他们（即伊朗）全部159艘海军舰艇均已沉入海底。",
+          "url": "https://flash.jin10.com/detail/20260423204816969800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时06分"
+        },
+        {
+          "title": "美国总统特朗普：我在此命令将这一行动（清理水雷）继续推进，并将强度提升至三倍。",
+          "url": "https://flash.jin10.com/detail/20260423204735384800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时06分"
+        },
+        {
+          "title": "特朗普：我们的扫雷舰现在正在清理海峡。 已下令海军向任何在霍尔木兹海峡布雷的船只开火。 已下令将霍尔木兹海峡的扫雷力量增至“三倍”水平。",
+          "url": "https://wallstreetcn.com/livenews/3093317",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时06分"
+        },
+        {
+          "title": "观察｜我们选取了特朗普的50篇战时“小作文”，语言学家这样解码",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33028669",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            15,
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时51分 ~ 21时06分]"
+        },
+        {
+          "title": "英媒：特朗普特使要求国际足联用意大利替换伊朗参加世界杯",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33033905",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17,
+            15,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时51分 ~ 21时06分]"
         },
         {
           "title": "特朗普称不延长停火，威胁恢复轰炸伊朗，消息称伊不会参加22日谈判，万斯推迟赴会",
@@ -339,32 +433,6 @@
           "time_info": "[04时44分 ~ 05时44分]"
         },
         {
-          "title": "观察｜我们选取了特朗普的50篇战时“小作文”，语言学家这样解码",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33028669",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            15,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时51分 ~ 19时56分]"
-        },
-        {
-          "title": "英媒：特朗普特使要求国际足联用意大利替换伊朗参加世界杯",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33033905",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            17,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时51分 ~ 19时56分]"
-        },
-        {
           "title": "特朗普：何时结束同伊朗冲突目前“没有时间表”",
           "url": "https://m.thepaper.cn/newsDetail_forward_33032152",
           "source": "澎湃新闻",
@@ -400,6 +468,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时44分 ~ 06时40分]"
+        },
+        {
+          "title": "特朗普称何时结束同伊朗冲突没有时间表，美军已指令 29 艘船只掉头或返回伊朗港口，特朗普表态为何如此反复？",
+          "url": "https://www.zhihu.com/question/2030579933127391060",
+          "source": "知乎",
+          "ranks": [
+            11,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时56分 ~ 21时06分]"
+        },
+        {
+          "title": "美国总统特朗普：已命令海军击沉任何在霍尔木兹海峡布置水雷的船只。我们的扫雷舰目前正对该海峡进行清理。",
+          "url": "https://flash.jin10.com/detail/20260423204707770800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时06分"
         },
         {
           "title": "伊朗否认举行美伊新谈判：特朗普又说谎了",
@@ -446,15 +537,15 @@
           "time_info": "03时24分"
         },
         {
-          "title": "特朗普称何时结束同伊朗冲突没有时间表，美军已指令 29 艘船只掉头或返回伊朗港口，特朗普表态为何如此反复？",
-          "url": "https://www.zhihu.com/question/2030579933127391060",
-          "source": "知乎",
+          "title": "内幕交易疑云再起？特朗普宣布延长停火前 神秘资金精准做空原油",
+          "url": "https://www.cls.cn/detail/2353470",
+          "source": "财联社热门",
           "ranks": [
-            11
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时56分"
+          "time_info": "21时06分"
         },
         {
           "title": "预测市场显示 特朗普面临弹劾的风险持续攀升",
@@ -581,7 +672,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 30,
+      "match_count": 31,
       "titles": [
         {
           "title": "伊朗停火谈判生变，美股收跌，芯片股指十五连涨，油价再涨，金银下挫",
@@ -645,6 +736,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[07时40分 ~ 14时58分]"
+        },
+        {
+          "title": "周四美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3093319",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时06分"
         },
         {
           "title": "IBM(IBM.N)美股盘后跌8%。",
@@ -792,7 +894,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时56分"
         },
@@ -825,7 +927,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时56分"
         },
@@ -880,7 +982,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时56分"
         },
@@ -913,7 +1015,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时56分"
         },
@@ -932,7 +1034,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "谷歌云年度Next大会：TPU打破“内存墙” OCS、液冷题材如期亮相",
@@ -994,6 +1096,17 @@
           "time_info": "00时52分"
         },
         {
+          "title": "谷歌在阿尔卑斯山地区投资建设首个数据中心。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3093304",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时06分"
+        },
+        {
           "title": "谷歌(GOOG.O)CEO皮查伊：重申公司2026年1750-1850亿美元的资本支出计划。",
           "url": "https://flash.jin10.com/detail/20260423001432154800",
           "source": "金十数据",
@@ -1014,6 +1127,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时44分"
+        },
+        {
+          "title": "谷歌云与CVC启动人工智能合作伙伴关系。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3093296",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时06分"
         }
       ]
     },
@@ -1114,11 +1238,12 @@
           "source": "知乎",
           "ranks": [
             19,
-            16
+            16,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时20分 ~ 19时56分]"
+          "appearance_count": 3,
+          "time_info": "[18时20分 ~ 21时06分]"
         },
         {
           "title": "阿里等巨头洽谈投资DeepSeek",
