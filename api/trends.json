@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-08T13:24:43.098041+08:00",
-  "total_titles_processed": 974,
+  "generated_at": "2026-05-08T15:19:39.655698+08:00",
+  "total_titles_processed": 1108,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 36,
+      "match_count": 40,
       "titles": [
         {
           "title": "从狂热支持到强烈担忧，日本“铁粉”也要弃特朗普了？",
@@ -62,8 +62,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时12分 ~ 13时24分]"
+          "appearance_count": 3,
+          "time_info": "[10时12分 ~ 15时19分]"
         },
         {
           "title": "美国总统特朗普：已同意给欧盟委员会主席冯德莱恩时间至美国建国250周年纪念日；否则，很遗憾，他们的关税将立即大幅上调。",
@@ -167,6 +167,53 @@
           "time_info": "[05时01分 ~ 06时01分]"
         },
         {
+          "title": "卢拉会晤特朗普，称巴西不在中美之间选边站",
+          "url": "https://news.ifeng.com/c/8sx7oAMkRMI",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时24分 ~ 15时19分]"
+        },
+        {
+          "title": "王毅会见美国国会参议员代表团，此访是特朗普总统就任以来首个访华的两党参议员代表团，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2035771230985380677",
+          "source": "知乎",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时24分 ~ 15时19分]"
+        },
+        {
+          "title": "晚宴枪击事件后，特朗普再为白宫宴会厅项目辩护",
+          "url": "https://news.ifeng.com/c/8sxEzEFSGYq",
+          "source": "凤凰网",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时24分 ~ 15时19分]"
+        },
+        {
+          "title": "黄仁勋：若受邀，将随特朗普一同访问中国",
+          "url": "https://news.ifeng.com/c/8sxPIPLXdSr",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        },
+        {
           "title": "特朗普回应打击伊朗：只是小惩罚，停火仍然有效",
           "url": "https://flash.jin10.com/detail/20260508062437973800",
           "source": "金十数据",
@@ -200,39 +247,6 @@
           "time_info": "07时03分"
         },
         {
-          "title": "卢拉会晤特朗普，称巴西不在中美之间选边站",
-          "url": "https://news.ifeng.com/c/8sx7oAMkRMI",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时24分"
-        },
-        {
-          "title": "王毅会见美国国会参议员代表团，此访是特朗普总统就任以来首个访华的两党参议员代表团，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2035771230985380677",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时24分"
-        },
-        {
-          "title": "晚宴枪击事件后，特朗普再为白宫宴会厅项目辩护",
-          "url": "https://news.ifeng.com/c/8sxEzEFSGYq",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时24分"
-        },
-        {
           "title": "美国贸易法院裁定特朗普10%全球关税无效",
           "url": "https://wallstreetcn.com/articles/3771788",
           "source": "华尔街见闻",
@@ -253,6 +267,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时29分"
+        },
+        {
+          "title": "特朗普：美伊停火仍有效",
+          "url": "https://www.cls.cn/detail/2365528",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        },
+        {
+          "title": "局势升级！美伊在霍尔木兹交火 特朗普：停火仍有效，只是“轻微敲打”",
+          "url": "https://www.cls.cn/detail/2365546",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
         },
         {
           "title": "美法院裁定特朗普的10%全球关税不成立",
@@ -294,7 +330,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时24分"
         },
@@ -354,6 +390,17 @@
           "time_info": "06时01分"
         },
         {
+          "title": "英伟达CEO黄仁勋：若受邀，将随特朗普一同访问中国",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33120591",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        },
+        {
           "title": "美国贸易法庭的裁决并未全面阻止特朗普10%的关税，仅针对两家提起诉讼的公司。",
           "url": "https://flash.jin10.com/detail/20260508054706756800",
           "source": "金十数据",
@@ -371,7 +418,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时24分"
         },
@@ -404,7 +451,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时24分"
         }
@@ -470,8 +517,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时12分 ~ 13时24分]"
+          "appearance_count": 3,
+          "time_info": "[10时12分 ~ 15时19分]"
         },
         {
           "title": "美股收盘：三大指数集体收跌 AI应用和软件板块逆势走强",
@@ -589,7 +636,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "全球AI新王诞生！Anthropic估值冲爆1.2万亿，首次反超OpenAI",
@@ -598,11 +645,35 @@
           "ranks": [
             10,
             9,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时05分 ~ 13时24分]"
+          "appearance_count": 10,
+          "time_info": "[02时05分 ~ 15时19分]"
+        },
+        {
+          "title": "软银将OpenAI保证金贷款目标削减40%，至60亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3100476",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        },
+        {
+          "title": "存储超级周期重塑韩国婚恋市场 OpenAI芯片项目据传陷入融资困境 | 环球市场",
+          "url": "https://www.cls.cn/detail/2365554",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时24分 ~ 15时19分]"
         },
         {
           "title": "OpenAI：GPT-Realtime-2的定价为音频输入每百万token 32美元 音频输出每百万token 64美元",
@@ -637,17 +708,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时05分"
-        },
-        {
-          "title": "存储超级周期重塑韩国婚恋市场 OpenAI芯片项目据传陷入融资困境 | 环球市场",
-          "url": "https://www.cls.cn/detail/2365554",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时24分"
         },
         {
           "title": "OpenAI：通过API中的新模型推动语音智能发展。",
@@ -695,7 +755,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时24分"
         },
@@ -723,7 +783,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时24分"
         }
