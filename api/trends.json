@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-10T20:59:38.668949+08:00",
-  "total_titles_processed": 1188,
+  "generated_at": "2026-05-10T22:21:01.220986+08:00",
+  "total_titles_processed": 1274,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "特朗普：可能恢复“自由计划”行动，伊朗：正制定霍尔木兹海峡相关法律草案",
@@ -128,6 +128,17 @@
           "time_info": "[02时48分 ~ 04时37分]"
         },
         {
+          "title": "特朗普级战列舰能建成吗",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%BA%A7%E6%88%98%E5%88%97%E8%88%B0%E8%83%BD%E5%BB%BA%E6%88%90%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时20分 ~ 22时21分]"
+        },
+        {
           "title": "俄罗斯总统助理乌沙科夫：美国总统特使威特科夫和特朗普女婿库什纳将“很快”抵达莫斯科，俄罗斯将继续与他们对话。",
           "url": "https://flash.jin10.com/detail/20260510182305585800",
           "source": "金十数据",
@@ -211,11 +222,12 @@
             11,
             16,
             17,
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时43分 ~ 20时59分]"
+          "appearance_count": 19,
+          "time_info": "[00时43分 ~ 22时21分]"
         },
         {
           "title": "deepseek 首轮融资估值近 450 亿美元，将对 AI 领域产生哪些影响？",
@@ -331,9 +343,9 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时59分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时59分 ~ 22时21分]"
         }
       ]
     },
@@ -354,18 +366,6 @@
           "time_info": "[00时43分 ~ 06时35分]"
         },
         {
-          "title": "美股收盘：标普纳指周线6连阳 存储、CPU四大牛股均涨超10%",
-          "url": "https://www.cls.cn/detail/2366633",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时43分 ~ 05时36分]"
-        },
-        {
           "title": "远超预期！刚刚过去的财报季，美股“强得惊人”",
           "url": "https://wallstreetcn.com/articles/3771916",
           "source": "华尔街见闻",
@@ -376,8 +376,20 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时57分 ~ 22时21分]"
+        },
+        {
+          "title": "美股收盘：标普纳指周线6连阳 存储、CPU四大牛股均涨超10%",
+          "url": "https://www.cls.cn/detail/2366633",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
           "appearance_count": 7,
-          "time_info": "[13时57分 ~ 20时59分]"
+          "time_info": "[00时43分 ~ 05时36分]"
         },
         {
           "title": "沙特阿美股价在早盘交易中上涨1.1%。",
