@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-19T10:58:38.043152+08:00",
-  "total_titles_processed": 811,
+  "generated_at": "2026-05-19T14:47:17.774700+08:00",
+  "total_titles_processed": 996,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 57,
+      "match_count": 59,
       "titles": [
         {
           "title": "外交部回应特朗普涉台表态",
@@ -54,6 +54,32 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时28分 ~ 07时58分]"
+        },
+        {
+          "title": "原定周二对伊朗攻击！特朗普应海湾三国请求推迟，内塔尼亚胡连续两晚开会备战",
+          "url": "https://wallstreetcn.com/articles/3772569",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时58分 ~ 14时47分]"
+        },
+        {
+          "title": "特朗普称将推迟对伊朗发动军事打击",
+          "url": "https://www.cls.cn/detail/2374774",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            7,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时52分 ~ 14时47分]"
         },
         {
           "title": "美、布两油短线大幅跳水，现货金银快速拉升。特朗普称，应中东国家请求暂缓原定于明天进行的对伊朗的攻击。",
@@ -114,17 +140,6 @@
           "time_info": "03时27分"
         },
         {
-          "title": "原定周二对伊朗攻击！特朗普应海湾三国请求推迟，内塔尼亚胡连续两晚开会备战",
-          "url": "https://wallstreetcn.com/articles/3772569",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时58分"
-        },
-        {
           "title": "美国总统特朗普：卡塔尔、沙特阿拉伯和阿联酋已要求我们暂停对伊朗的军事攻击计划。",
           "url": "https://flash.jin10.com/detail/20260519030250439800",
           "source": "金十数据",
@@ -142,7 +157,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时58分"
         },
@@ -175,19 +190,6 @@
           "time_info": "[01时28分 ~ 06时52分]"
         },
         {
-          "title": "特朗普称将推迟对伊朗发动军事打击",
-          "url": "https://www.cls.cn/detail/2374774",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            7,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时52分 ~ 10时58分]"
-        },
-        {
           "title": "美国总统特朗普：伊朗知道“很快会发生什么”。 不会对伊朗做出让步。 （关于伊朗铀浓缩问题）我现在对啥（选项）也不持开放态度。 伊朗比以往任何时候都更希望达成协议。 “不久”就会达成伊朗协议。（纽约邮报）",
           "url": "https://wallstreetcn.com/livenews/3105539",
           "source": "华尔街见闻-快讯",
@@ -214,6 +216,17 @@
           "time_info": "[01时28分 ~ 06时52分]"
         },
         {
+          "title": "特朗普连发15张图分享“中国记忆”",
+          "url": "https://news.ifeng.com/c/8tFAH622lBt",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时58分 ~ 14时47分]"
+        },
+        {
           "title": "特朗普：中东盟友请求推迟对伊打击以促成协议",
           "url": "https://flash.jin10.com/detail/20260519060254100800",
           "source": "金十数据",
@@ -224,6 +237,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时52分 ~ 07时58分]"
+        },
+        {
+          "title": "特朗普称将推迟对伊朗发动军事打击 SpaceX正式启动拆股计划 | 环球市场",
+          "url": "https://www.cls.cn/detail/2374803",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时58分 ~ 14时47分]"
         },
         {
           "title": "WTI原油期货7月跌2.1%，特朗普暂缓袭击伊朗的计划。",
@@ -250,17 +275,6 @@
           "time_info": "[06时52分 ~ 07时58分]"
         },
         {
-          "title": "特朗普连发15张图分享“中国记忆”",
-          "url": "https://news.ifeng.com/c/8tFAH622lBt",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时58分"
-        },
-        {
           "title": "特朗普将在白宫为沃什主持就职，市场紧盯：他会听总统的话降息吗？",
           "url": "https://flash.jin10.com/detail/20260519072301836800",
           "source": "金十数据",
@@ -278,7 +292,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时58分"
         },
@@ -316,15 +330,15 @@
           "time_info": "01时28分"
         },
         {
-          "title": "特朗普称将推迟对伊朗发动军事打击 SpaceX正式启动拆股计划 | 环球市场",
-          "url": "https://www.cls.cn/detail/2374803",
-          "source": "财联社热门",
+          "title": "特朗普暗示日本过头了",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%9A%97%E7%A4%BA%E6%97%A5%E6%9C%AC%E8%BF%87%E5%A4%B4%E4%BA%86",
+          "source": "百度热搜",
           "ranks": [
-            12
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时58分"
+          "time_info": "14时47分"
         },
         {
           "title": "美国总统特朗普：伊朗不会拥有核武器。",
@@ -369,6 +383,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时27分"
+        },
+        {
+          "title": "特朗普称美国对台政策没变，外交部：两岸统一才是光明大道",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33193117",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时47分"
         },
         {
           "title": "据纽约邮报：美国总统特朗普称，不会对伊朗做出让步。",
@@ -660,8 +685,19 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
+        {
+          "title": "谈判前景反复无常，油价先跌后涨，美股承压，科技股领跌",
+          "url": "https://wallstreetcn.com/articles/3772473",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时52分 ~ 14时47分]"
+        },
         {
           "title": "美伊局势缓和，美股高开，半导体股普涨，油价回落，黄金小幅上涨",
           "url": "https://wallstreetcn.com/articles/3772473",
@@ -674,17 +710,6 @@
           "time_info": "[01时28分 ~ 05时10分]"
         },
         {
-          "title": "谈判前景反复无常，油价先跌后涨，美股承压，科技股领跌",
-          "url": "https://wallstreetcn.com/articles/3772473",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时52分 ~ 10时58分]"
-        },
-        {
           "title": "【早报】美股存储、半导体板块大跌；特朗普：暂缓对伊打击",
           "url": "https://www.cls.cn/detail/2374806",
           "source": "财联社热门",
@@ -693,8 +718,22 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时58分 ~ 10时58分]"
+          "appearance_count": 3,
+          "time_info": "[07时58分 ~ 14时47分]"
+        },
+        {
+          "title": "美股收盘：标普纳指连跌两日 存储概念股、芯片板块整体走弱",
+          "url": "https://www.cls.cn/detail/2374787",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时52分 ~ 14时47分]"
         },
         {
           "title": "美股迎来史上最大电力并购案 SpaceX概念股盘前走高 | 今夜看点",
@@ -711,17 +750,15 @@
           "time_info": "[01时28分 ~ 10时58分]"
         },
         {
-          "title": "美股收盘：标普纳指连跌两日 存储概念股、芯片板块整体走弱",
-          "url": "https://www.cls.cn/detail/2374787",
+          "title": "美联储“不得不鹰”？大摩预警：若美债收益率持续飙升 美股恐现“重大回调”",
+          "url": "https://www.cls.cn/detail/2374855",
           "source": "财联社热门",
           "ranks": [
-            11,
-            5,
             4
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时52分 ~ 10时58分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时47分"
         },
         {
           "title": "周一（5月18日），美股AI软件先驱指数涨1.76%，报107.43点。 15只成分股普遍收涨，ServiceNOW涨8.78%，ESTC涨6.54%，GitLab涨6.04%，MongoDB、HubSpot、ServiceNOW、Salesforce、Adobe、C3.ai至少涨1.16%，铿腾电子、新思科技则至多收跌0.79%，甲骨文跌3.29%。",
@@ -934,7 +971,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时58分"
         }
@@ -942,7 +979,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "周一（5月18日），美股人工智能（AI）赢家指数跌3.21%，报377.39点。 成分股Nebius集团收跌9.13%，摩丁制造MOD跌8.90%，Lumentum跌8.83%跌幅第三大，康宁公司、美光科技进入跌幅前十大，在收涨的七只成分股中，谷歌A、亚马逊涨幅最小，微软涨0.38%，Palantir涨0.86%，Arm控股涨2.85%。",
@@ -954,6 +991,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时10分"
+        },
+        {
+          "title": "九大看点梳理！谷歌I/O大会前瞻：“AI全栈霸主”能否再度惊艳华尔街？",
+          "url": "https://www.cls.cn/detail/2374982",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时47分"
         },
         {
           "title": "戴尔：谷歌与戴尔合作，在戴尔PowerEdge XE9780服务器上通过谷歌分布式云推出Gemini 3闪存模型。",
@@ -996,7 +1044,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时58分"
         }
