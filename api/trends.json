@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-06T19:19:39.602928+08:00",
-  "total_titles_processed": 1223,
+  "generated_at": "2026-06-06T21:12:21.802320+08:00",
+  "total_titles_processed": 1335,
   "failed_sources": [],
   "trends": [
     {
@@ -20,6 +20,18 @@
           "time_info": "[00时28分 ~ 08时02分]"
         },
         {
+          "title": "特朗普“官宣”：我和马斯克又成朋友了",
+          "url": "https://news.ifeng.com/c/8tjmsxXSCQI",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时20分 ~ 21时12分]"
+        },
+        {
           "title": "特朗普：将迅速结束伊朗战事",
           "url": "https://news.ifeng.com/c/8tjENyLisNK",
           "source": "凤凰网",
@@ -29,17 +41,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时55分 ~ 14时49分]"
-        },
-        {
-          "title": "特朗普“官宣”：我和马斯克又成朋友了",
-          "url": "https://news.ifeng.com/c/8tjmsxXSCQI",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时20分 ~ 19时19分]"
         },
         {
           "title": "普京：感谢特朗普调教泽连斯基举止",
@@ -280,6 +281,18 @@
           "time_info": "[06时11分 ~ 08时02分]"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-06-06）",
+          "url": "https://flash.jin10.com/detail/20260606181845712800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时19分 ~ 21时12分]"
+        },
+        {
           "title": "美国总统特朗普夸赞就业数据。",
           "url": "https://flash.jin10.com/detail/20260606053520855800",
           "source": "金十数据",
@@ -325,17 +338,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-06-06）",
-          "url": "https://flash.jin10.com/detail/20260606181845712800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时19分"
         },
         {
           "title": "美国总统特朗普的阿拉斯加石油租赁许可拍卖仅仅招揽到两个竞标人。",
@@ -465,7 +467,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时19分"
         },
@@ -586,7 +588,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时19分"
         }
@@ -604,8 +606,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时01分 ~ 19时19分]"
+          "appearance_count": 10,
+          "time_info": "[08时01分 ~ 21时12分]"
         },
         {
           "title": "非农大超预期，美股债“双杀”，纳指重挫超4%，芯片指数暴跌10%，贵金属、加密货币遭“血洗”",
@@ -616,8 +618,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时01分 ~ 19时19分]"
+          "appearance_count": 10,
+          "time_info": "[08时01分 ~ 21时12分]"
         },
         {
           "title": "反“金发姑娘”！今晚非农：好消息和坏消息，对美股而言都是坏消息",
@@ -638,11 +640,12 @@
           "url": "https://www.zhihu.com/question/2046360260902909588",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时55分 ~ 19时19分]"
+          "appearance_count": 8,
+          "time_info": "[11时55分 ~ 21时12分]"
         },
         {
           "title": "新兴市场ETF收跌超6.5%，领跌美股大类资产类ETF",
@@ -678,6 +681,18 @@
           "time_info": "08时02分"
         },
         {
+          "title": "开户就送“美股七姐妹”，部分港资券商抢开户，最后的窗口期真能安全吗？",
+          "url": "https://www.cls.cn/detail/2392638",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时19分 ~ 21时12分]"
+        },
+        {
           "title": "美股三大指数齐跌 纳指跌逾千点",
           "url": "https://www.toutiao.com/trending/7647681791742214171/",
           "source": "今日头条",
@@ -688,6 +703,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[08时01分 ~ 11时56分]"
+        },
+        {
+          "title": "如何看待美股一夜蒸发2万亿",
+          "url": "https://www.toutiao.com/trending/7648181420996693523/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时19分 ~ 21时12分]"
         },
         {
           "title": "金十图示：2026年06月05日（周五）美股热门股票行情一览（美股收盘）",
@@ -736,17 +763,6 @@
           "time_info": "[17时20分 ~ 17时21分]"
         },
         {
-          "title": "如何看待美股一夜蒸发2万亿",
-          "url": "https://www.toutiao.com/trending/7648181420996693523/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时19分"
-        },
-        {
           "title": "周五（6月5日），美股存储芯片与硬件供应链指数收跌10.92%，报198.69点，本周累计下跌5.67%，整体冲高回落。 周五当天，成分股全线溃败，Rambus收跌14.20%，美光科技跌13.25%，泰瑞达、闪迪至少跌11.39%，西部数据跌11.08%，拉姆研究、应用材料、希捷科技至少跌8.48%。",
           "url": "https://wallstreetcn.com/livenews/3115378",
           "source": "华尔街见闻-快讯",
@@ -756,17 +772,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
-        },
-        {
-          "title": "开户就送“美股七姐妹”，部分港资券商抢开户，最后的窗口期真能安全吗？",
-          "url": "https://www.cls.cn/detail/2392638",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时19分"
         },
         {
           "title": "迈威尔科技（美满科技）美股盘后涨5%，该公司将被纳入标普500指数。",
@@ -808,7 +813,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时19分"
         },
@@ -830,7 +835,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时19分"
         },
@@ -991,11 +996,12 @@
           "ranks": [
             8,
             7,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时55分 ~ 19时19分]"
+          "appearance_count": 8,
+          "time_info": "[11时55分 ~ 21时12分]"
         },
         {
           "title": "美元指数5日上涨",
@@ -1070,8 +1076,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时55分 ~ 19时19分]"
+          "appearance_count": 8,
+          "time_info": "[11时55分 ~ 21时12分]"
         }
       ]
     }
