@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-07T18:07:45.134337+08:00",
-  "total_titles_processed": 956,
+  "generated_at": "2026-06-07T20:17:54.129634+08:00",
+  "total_titles_processed": 1085,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 14,
+      "match_count": 17,
       "titles": [
         {
           "title": "特朗普戴上金牌后开玩笑称“不想还了”：我喜欢金子，要留着",
@@ -39,8 +39,30 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时44分 ~ 18时07分]"
+          "appearance_count": 5,
+          "time_info": "[10时44分 ~ 20时17分]"
+        },
+        {
+          "title": "特朗普宣布将前往现场看NBA总决赛",
+          "url": "https://wallstreetcn.com/livenews/3115551",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时17分"
+        },
+        {
+          "title": "特朗普女儿女婿，在欧洲被“火烈鸟”围剿了",
+          "url": "https://news.ifeng.com/c/8tkuLp7C2ad",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时44分 ~ 20时17分]"
         },
         {
           "title": "特朗普首席人工智能顾问克里希南将于月底离职",
@@ -61,17 +83,6 @@
           "ranks": [
             10,
             9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时44分 ~ 18时07分]"
-        },
-        {
-          "title": "特朗普女儿女婿，在欧洲被“火烈鸟”围剿了",
-          "url": "https://news.ifeng.com/c/8tkuLp7C2ad",
-          "source": "凤凰网",
-          "ranks": [
-            11
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -166,12 +177,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时02分"
+        },
+        {
+          "title": "专家：特朗普为赶移民要判人“死亡”",
+          "url": "https://www.toutiao.com/trending/7648586699135520292/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时17分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-06-07）",
+          "url": "https://flash.jin10.com/detail/20260607181845041800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时17分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "美股收盘：强劲非农引发加息担忧 AI热潮降温纳指重挫逾4%",
@@ -183,8 +216,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时03分 ~ 18时07分]"
+          "appearance_count": 12,
+          "time_info": "[01时03分 ~ 20时17分]"
         },
         {
           "title": "开户就送“美股七姐妹”，部分港资券商抢开户，最后的窗口期真能安全吗？",
@@ -196,8 +229,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时03分 ~ 18时07分]"
+          "appearance_count": 12,
+          "time_info": "[01时03分 ~ 20时17分]"
         },
         {
           "title": "非农大超预期，美股债“双杀”，纳指重挫超4%，芯片指数暴跌10%，贵金属、加密货币遭“血洗”",
@@ -264,9 +297,31 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时07分"
+        },
+        {
+          "title": "业内：不要“无视”周五美股的大跌",
+          "url": "https://www.toutiao.com/trending/7648521565105032746/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时17分"
+        },
+        {
+          "title": "中信证券：短期美股科技股调整，市场料将继续维持高波动状态",
+          "url": "https://flash.jin10.com/detail/20260607184311159800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时17分"
         }
       ]
     },
@@ -301,28 +356,30 @@
           "time_info": "[05时59分 ~ 18时07分]"
         },
         {
-          "title": "OpenAI计划对ChatGPT进行发布以来最大规模改版",
-          "url": "https://wallstreetcn.com/livenews/3115520",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时02分 ~ 18时07分]"
-        },
-        {
           "title": "\"聊天已死\"！ChatGPT最大改版来了，OpenAI要造\"超级应用\"",
           "url": "https://wallstreetcn.com/articles/3774032",
           "source": "华尔街见闻",
           "ranks": [
             8,
-            7
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时01分 ~ 20时17分]"
+        },
+        {
+          "title": "OpenAI计划对ChatGPT进行发布以来最大规模改版",
+          "url": "https://wallstreetcn.com/livenews/3115520",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            13,
+            25
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[15时01分 ~ 18时07分]"
+          "time_info": "[15时02分 ~ 20时17分]"
         },
         {
           "title": "OpenAI计划大幅升级ChatGPT 以创造更多收入",
@@ -339,7 +396,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "亮眼财报后股价大跌？博通CEO：永远不关心股价，死磕技术客户就不会跑，看好“博通-谷歌-Anthropic”铁三角",
@@ -369,6 +426,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[04时56分 ~ 15时02分]"
+        },
+        {
+          "title": "SpaceX上市募资要建“太空数据中心”，却高价租算力给谷歌和Anthropic！网民热议：为何如此？",
+          "url": "https://wallstreetcn.com/articles/3774034",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时17分"
         }
       ]
     },
