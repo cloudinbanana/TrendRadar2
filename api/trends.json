@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-14T19:25:48.284059+08:00",
-  "total_titles_processed": 954,
+  "generated_at": "2026-06-14T21:42:56.983370+08:00",
+  "total_titles_processed": 1099,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 27,
+      "match_count": 28,
       "titles": [
         {
           "title": "特朗普：美伊协议计划于周日签署 霍尔木兹海峡随后立即开放",
@@ -18,8 +18,20 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时01分 ~ 21时42分]"
+        },
+        {
+          "title": "美伊协议何时签署？特朗普说14日，伊朗否认，“霍尔木兹海峡是否“免费”重开”也各执一词",
+          "url": "https://wallstreetcn.com/articles/3774599",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            4
+          ],
+          "is_new": false,
           "appearance_count": 5,
-          "time_info": "[08时01分 ~ 19时25分]"
+          "time_info": "[12时24分 ~ 21时42分]"
         },
         {
           "title": "特朗普姓名被从肯尼迪中心外墙移除",
@@ -44,18 +56,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时14分 ~ 16时39分]"
-        },
-        {
-          "title": "美伊协议何时签署？特朗普说14日，伊朗否认，“霍尔木兹海峡是否“免费”重开”也各执一词",
-          "url": "https://wallstreetcn.com/articles/3774599",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时24分 ~ 19时25分]"
         },
         {
           "title": "国际原子能机构前总干事批评特朗普：试图让美伊新协议显得优于伊核协议",
@@ -118,6 +118,19 @@
           "time_info": "[03时11分 ~ 08时01分]"
         },
         {
+          "title": "自说自话？美媒细数特朗普曾39次说与伊朗“谈好了”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33375825",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时24分 ~ 21时42分]"
+        },
+        {
           "title": "亚马逊CEO向美官员汇报后 特朗普政府收紧Anthropic模型使用限制",
           "url": "https://flash.jin10.com/detail/20260614010232105800",
           "source": "金十数据",
@@ -154,17 +167,15 @@
           "time_info": "[01时14分 ~ 03时11分]"
         },
         {
-          "title": "自说自话？美媒细数特朗普曾39次说与伊朗“谈好了”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33375825",
-          "source": "澎湃新闻",
+          "title": "白宫上演特技摩托车秀，庆祝特朗普80大寿",
+          "url": "https://v.ifeng.com/c/8twfTkgsM7l",
+          "source": "凤凰网",
           "ranks": [
-            12,
-            11,
-            8
+            11
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[12时24分 ~ 19时25分]"
+          "time_info": "[16时38分 ~ 21时42分]"
         },
         {
           "title": "美伊协议何时签署 特朗普说14日 伊朗否认",
@@ -178,17 +189,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时24分 ~ 19时25分]"
-        },
-        {
-          "title": "白宫上演特技摩托车秀，庆祝特朗普80大寿",
-          "url": "https://v.ifeng.com/c/8twfTkgsM7l",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时38分 ~ 19时25分]"
         },
         {
           "title": "特朗普社交媒体发文：明天将签署协议，霍尔木兹海峡即刻开放",
@@ -269,7 +269,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时25分"
         },
@@ -302,9 +302,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时25分"
+        },
+        {
+          "title": "特朗普称美伊协议计划14日签署",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33376146",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时42分"
         },
         {
           "title": "美军被曝曾制订抢夺伊朗浓缩铀计划 特朗普未批准",
@@ -354,11 +365,12 @@
           "url": "https://www.cls.cn/detail/2399163",
           "source": "财联社热门",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时24分 ~ 19时25分]"
+          "appearance_count": 5,
+          "time_info": "[12时24分 ~ 21时42分]"
         },
         {
           "title": "OpenAI突遭联合调查、Anthropic顶级模型被叫停，美国AI监管风暴升级",
@@ -388,8 +400,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时14分 ~ 19时25分]"
+          "appearance_count": 11,
+          "time_info": "[01时14分 ~ 21时42分]"
         },
         {
           "title": "美伊协议曙光重燃，原油两连跌，美股指全线收涨、债汇承压，SpaceX首日大涨19%",
@@ -446,6 +458,23 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时14分 ~ 06时56分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "谷歌官宣3万字路线图：1亿人类水平的AI就是ASI！",
+          "url": "https://wallstreetcn.com/articles/3774610",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时42分"
         }
       ]
     },
