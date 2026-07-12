@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-12T07:45:50.279086+08:00",
-  "total_titles_processed": 463,
+  "generated_at": "2026-07-12T09:55:57.110581+08:00",
+  "total_titles_processed": 610,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "澎湃新闻",
           "ranks": [
             2,
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时44分 ~ 07时45分]"
+          "appearance_count": 11,
+          "time_info": "[00时44分 ~ 09时55分]"
         },
         {
           "title": "特朗普给了泽连斯基一个重要承诺，舆论泼冷水",
@@ -88,11 +89,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            8
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时41分 ~ 07时45分]"
+          "appearance_count": 4,
+          "time_info": "[05时41分 ~ 09时55分]"
         }
       ]
     },
@@ -109,8 +111,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时44分 ~ 07时45分]"
+          "appearance_count": 11,
+          "time_info": "[00时44分 ~ 09时55分]"
         },
         {
           "title": "AI狂欢持续！SK海力士创海外赴美最大IPO，美股首秀收涨13%",
@@ -132,8 +134,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时44分 ~ 07时45分]"
+          "appearance_count": 11,
+          "time_info": "[00时44分 ~ 09时55分]"
         },
         {
           "title": "SK海力士创纪录赴美上市 美股期指涨跌不一 芯片股盘前普遍下跌 | 今夜看点",
@@ -144,8 +146,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时44分 ~ 07时45分]"
+          "appearance_count": 11,
+          "time_info": "[00时44分 ~ 09时55分]"
         },
         {
           "title": "美股涨势背后存在隐忧 数据显示市场内部广度正在收窄",
@@ -174,11 +176,12 @@
             10,
             8,
             7,
-            14
+            14,
+            20
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时47分 ~ 07时45分]"
+          "appearance_count": 8,
+          "time_info": "[02时47分 ~ 09时55分]"
         }
       ]
     },
