@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-07-22T20:26:39.581623+08:00",
-  "total_titles_processed": 1467,
+  "generated_at": "2026-07-22T22:59:14.734429+08:00",
+  "total_titles_processed": 1626,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 59,
+      "match_count": 64,
       "titles": [
+        {
+          "title": "特朗普承认美方干预中国事务，并称“今时不同往日”",
+          "url": "https://news.ifeng.com/c/8uy1V150ZKO",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时01分 ~ 22时59分]"
+        },
         {
           "title": "因人事任命非特朗普属意，美国考虑退出联合国难民署",
           "url": "https://news.ifeng.com/c/8uwZlCa0EaK",
@@ -17,18 +29,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时21分 ~ 07时51分]"
-        },
-        {
-          "title": "特朗普承认美方干预中国事务，并称“今时不同往日”",
-          "url": "https://news.ifeng.com/c/8uy1V150ZKO",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时01分 ~ 20时26分]"
         },
         {
           "title": "特朗普：可能很快打击伊朗“镐山”核设施",
@@ -147,6 +147,18 @@
           "time_info": "[00时21分 ~ 06时52分]"
         },
         {
+          "title": "特朗普：伊朗想会谈但美国“没兴趣”，“很快”重击镐山核设施，警告胡塞武装勿封红海",
+          "url": "https://wallstreetcn.com/articles/3777603",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时01分 ~ 22时59分]"
+        },
+        {
           "title": "美国总统特朗普提名Adam Candeub负责司法部反垄断部门的事务。",
           "url": "https://wallstreetcn.com/livenews/3137768",
           "source": "华尔街见闻-快讯",
@@ -209,18 +221,6 @@
           "time_info": "[00时21分 ~ 04时15分]"
         },
         {
-          "title": "特朗普：伊朗想会谈但美国“没兴趣”，“很快”重击镐山核设施，警告胡塞武装勿封红海",
-          "url": "https://wallstreetcn.com/articles/3777603",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时01分 ~ 20时26分]"
-        },
-        {
           "title": "特朗普称将打击伊朗核设施",
           "url": "https://www.toutiao.com/trending/7665119295965236786/",
           "source": "今日头条",
@@ -278,6 +278,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时52分 ~ 07时51分]"
+        },
+        {
+          "title": "国际油价持续拉升！特朗普盯上的伊朗“镐山”有什么奥秘？",
+          "url": "https://www.cls.cn/detail/2434152",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时58分 ~ 22时59分]"
         },
         {
           "title": "据Axios：美国议员要求美国证交会调查特朗普媒体科技集团(DJT.O)旗下的Truth Social将其数据访问权商业化的计划。此前有报道称，该集团的“Truth API”产品定于8月1日上线，该产品将提供对该平台排名前十的热门账户公开帖文的实时访问权限。",
@@ -486,7 +497,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时26分"
         },
@@ -590,6 +601,17 @@
           "time_info": "09时51分"
         },
         {
+          "title": "伊朗直接回应特朗普威胁：打击基建将面临报复",
+          "url": "https://flash.jin10.com/detail/20260722223531429800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时59分"
+        },
+        {
           "title": "美国总统特朗普：将非常猛烈地打击镐山地区。",
           "url": "https://flash.jin10.com/detail/20260721234059763800",
           "source": "金十数据",
@@ -667,6 +689,28 @@
           "time_info": "00时21分"
         },
         {
+          "title": "美国总统特朗普警告：伊朗在霍尔木兹海峡每袭击一艘船只，美国将轰炸其一座桥梁或发电厂。",
+          "url": "https://wallstreetcn.com/livenews/3138255",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时59分"
+        },
+        {
+          "title": "美国参议员怀登建议立法，来限制总统特朗普的关税权力",
+          "url": "https://wallstreetcn.com/livenews/3138253",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时59分"
+        },
+        {
           "title": "特朗普想让FIFA主席当联合国秘书长",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%83%B3%E8%AE%A9FIFA%E4%B8%BB%E5%B8%AD%E5%BD%93%E8%81%94%E5%90%88%E5%9B%BD%E7%A7%98%E4%B9%A6%E9%95%BF%23&t=31&band_rank=29&Refer=top",
           "source": "微博",
@@ -676,13 +720,37 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
+        },
+        {
+          "title": "特朗普：伊朗将付出沉重的代价。 士兵死亡事件正在调查中，伊朗将付出代价。 美国人并不反对这场战争。 美国人不想要高油价。",
+          "url": "https://wallstreetcn.com/livenews/3138250",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时59分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
+        {
+          "title": "科技股力撑美股指反弹，芯片指数大涨，美光市值重回万亿，日元跌破163，金银猛涨",
+          "url": "https://wallstreetcn.com/articles/3777518",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[07时50分 ~ 22时59分]"
+        },
         {
           "title": "中东局势与财报季双重压力下，美股三连跌，芯片股抛售暂歇，中概收涨，油价过山车",
           "url": "https://wallstreetcn.com/articles/3777383",
@@ -693,18 +761,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时21分 ~ 07时51分]"
-        },
-        {
-          "title": "科技股力撑美股指反弹，芯片指数大涨，美光市值重回万亿，日元跌破163，金银猛涨",
-          "url": "https://wallstreetcn.com/articles/3777518",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时50分 ~ 20时26分]"
         },
         {
           "title": "美股AI概念盘前昂扬齐涨 美伊战火仍在持续 | 今夜看点",
@@ -719,6 +775,19 @@
           "time_info": "[00时21分 ~ 09时51分]"
         },
         {
+          "title": "剧烈反弹！美股“科技动量股”创史上最大单日涨幅，但暴跌结束了吗？",
+          "url": "https://wallstreetcn.com/articles/3777612",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时13分 ~ 22时59分]"
+        },
+        {
           "title": "美股收盘：明星存储股集体飙涨两位数 芯片股反弹费城指数升逾5%",
           "url": "https://www.cls.cn/detail/2433220",
           "source": "财联社热门",
@@ -731,19 +800,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[06时52分 ~ 13时13分]"
-        },
-        {
-          "title": "剧烈反弹！美股“科技动量股”创史上最大单日涨幅，但暴跌结束了吗？",
-          "url": "https://wallstreetcn.com/articles/3777612",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时13分 ~ 20时26分]"
         },
         {
           "title": "科技股力撑美股指反弹，芯片指数大涨5%，美光市值重回万亿，黄金拉升",
@@ -778,6 +834,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[19时01分 ~ 20时26分]"
+        },
+        {
+          "title": "AI交易热情回落，美股盘初走低，存储芯片、光通信股普跌，SK海力士跌5%，布油涨近3%",
+          "url": "https://wallstreetcn.com/articles/3777614",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时58分 ~ 22时59分]"
         },
         {
           "title": "【早报】美股存储芯片强势反攻，多股大涨超10%；油价、黄金同步走强；A股又一批增持回购潮来了",
@@ -979,7 +1046,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时26分"
         },
@@ -1001,7 +1068,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时26分"
         }
@@ -1009,7 +1076,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 13,
+      "match_count": 16,
       "titles": [
         {
           "title": "OpenAI负责人抨击Kimi开源",
@@ -1049,6 +1116,18 @@
           "time_info": "04时15分"
         },
         {
+          "title": "震惊硅谷！OpenAI模型“失控越狱”，入侵HuggingFace“抄答案”，智谱GLM 5.2临危救场",
+          "url": "https://wallstreetcn.com/articles/3777627",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时01分 ~ 22时59分]"
+        },
+        {
           "title": "OpenAI表示，Hugging Face遭遇的安全漏洞事件是由其旗下一个模型导致的。（Axios）",
           "url": "https://wallstreetcn.com/livenews/3137736",
           "source": "华尔街见闻-快讯",
@@ -1061,16 +1140,26 @@
           "time_info": "[04时15分 ~ 05时58分]"
         },
         {
-          "title": "震惊硅谷！OpenAI模型“失控越狱”，入侵HuggingFace“抄答案”，智谱GLM 5.2临危救场",
-          "url": "https://wallstreetcn.com/articles/3777627",
-          "source": "华尔街见闻",
+          "title": "6000亿美元→7500亿美元 OpenAI被曝大幅提高算力支出预测",
+          "url": "https://www.cls.cn/detail/2434359",
+          "source": "财联社热门",
           "ranks": [
-            7,
-            6
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时01分 ~ 20时26分]"
+          "appearance_count": 2,
+          "time_info": "[22时58分 ~ 22时59分]"
+        },
+        {
+          "title": "云支出目标狂飙至7500亿美元！OpenAI豪掷超300亿美元建数据中心，推出Presence平台进军企业软件市场",
+          "url": "https://wallstreetcn.com/articles/3777699",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时58分 ~ 22时59分]"
         },
         {
           "title": "OpenAI的CEO Altman将向美国官员们介绍下一波AI模型。",
@@ -1112,7 +1201,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时26分"
         },
@@ -1159,12 +1248,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时52分"
+        },
+        {
+          "title": "OpenAI将向美国佐治亚州提供至多1000 MW灵活需求，这是当地数据中心项目协议的一部分。",
+          "url": "https://wallstreetcn.com/livenews/3138256",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时59分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "谷歌(GOOG.O)：Gemini 3.6 Flash具备快速理解上下文能力，可帮助用户打造专属创意工具。",
@@ -1214,13 +1314,24 @@
           "time_info": "[05时57分 ~ 06时52分]"
         },
         {
+          "title": "谷歌重磅财报夜，Capex指引有望上调？资深分析师：2026年或冲击2000亿美元",
+          "url": "https://wallstreetcn.com/articles/3777680",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时58分 ~ 22时59分]"
+        },
+        {
           "title": "谷歌平价Gemini三箭齐发，网安模型对标Anthropic Mythos，旗舰3.5 Pro仍难产",
           "url": "https://wallstreetcn.com/articles/3777594",
           "source": "华尔街见闻",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时26分"
         },
@@ -1245,6 +1356,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时12分"
+        },
+        {
+          "title": "Alphabet迎来AI投资大考：Gemini模型延期，市场重估千亿投入回报",
+          "url": "https://flash.jin10.com/detail/20260722223141675800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时59分"
         }
       ]
     },
@@ -1269,11 +1391,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356411&amp;topic_name=%E5%90%A7%E5%8F%8B%E5%81%9A%E6%A2%97%E5%9B%BE%E5%82%AC%E6%9B%B4DeepSeekV4",
           "source": "贴吧",
           "ranks": [
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时02分 ~ 20时26分]"
+          "appearance_count": 4,
+          "time_info": "[19时02分 ~ 22时59分]"
         }
       ]
     },
